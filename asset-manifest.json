@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Welcome-to-React/static/css/main.ab7136cd.chunk.css",
+    "main.css": "/Welcome-to-React/static/css/main.7a92ed38.chunk.css",
     "main.js": "/Welcome-to-React/static/js/main.fb5e6b15.chunk.js",
     "main.js.map": "/Welcome-to-React/static/js/main.fb5e6b15.chunk.js.map",
     "runtime-main.js": "/Welcome-to-React/static/js/runtime-main.c1d8784e.js",
@@ -10,14 +10,14 @@
     "static/js/3.be07bfbf.chunk.js": "/Welcome-to-React/static/js/3.be07bfbf.chunk.js",
     "static/js/3.be07bfbf.chunk.js.map": "/Welcome-to-React/static/js/3.be07bfbf.chunk.js.map",
     "index.html": "/Welcome-to-React/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/Welcome-to-React/static/css/main.ab7136cd.chunk.css.map",
+    "static/css/main.7a92ed38.chunk.css.map": "/Welcome-to-React/static/css/main.7a92ed38.chunk.css.map",
     "static/js/2.c35ea4cb.chunk.js.LICENSE.txt": "/Welcome-to-React/static/js/2.c35ea4cb.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Welcome-to-React/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c1d8784e.js",
     "static/js/2.c35ea4cb.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
+    "static/css/main.7a92ed38.chunk.css",
     "static/js/main.fb5e6b15.chunk.js"
   ]
 }
